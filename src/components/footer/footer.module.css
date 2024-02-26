@@ -1,0 +1,12 @@
+.container {
+    border-top: 1px solid rebeccapurple;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #615a5d;
+}
+
+.logo {
+    font-size: 20px;
+}
